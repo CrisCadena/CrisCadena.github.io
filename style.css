@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(245, 253, 255);
+}
+
+h1 {
+    text-align: center;
+}
+.blockquote {
+    font-weight: bold;
+    font-size:x-large;
+}
+h2{
+    font-weight: bold;
+}
+p {
+    text-align: justify;
+}
