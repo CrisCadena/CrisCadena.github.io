@@ -1,17 +1,24 @@
 body {
-    background-color: rgb(245, 253, 255);
+    background-color: #f7f9fa;
 }
 
 h1 {
     text-align: center;
+    color: #333;
 }
+
 .blockquote {
     font-weight: bold;
-    font-size:x-large;
+    font-size: 24px;
+    color: #555;
 }
-h2{
+
+h2 {
     font-weight: bold;
+    color: #333;
 }
+
 p {
     text-align: justify;
+    color: #666;
 }
